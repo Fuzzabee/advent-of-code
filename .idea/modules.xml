@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2024/01/01.iml" filepath="$PROJECT_DIR$/2024/01/01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2024/02/02.iml" filepath="$PROJECT_DIR$/2024/02/02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2024/03/03.iml" filepath="$PROJECT_DIR$/2024/03/03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2024/04/04.iml" filepath="$PROJECT_DIR$/2024/04/04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2024/05/05.iml" filepath="$PROJECT_DIR$/2024/05/05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2024/2024.iml" filepath="$PROJECT_DIR$/2024/2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/advent-of-code.iml" filepath="$PROJECT_DIR$/.idea/advent-of-code.iml" />
+    </modules>
+  </component>
+</project>

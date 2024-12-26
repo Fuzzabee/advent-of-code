@@ -73,7 +73,7 @@ int main() {
 
     // Input comes as CSV of ints
     char buffer[BUFFER_SIZE];
-    fgets(buffer, sizeof(buffer), file) != NULL;
+    fgets(buffer, sizeof(buffer), file);
     
     // Tokenizing input
     char* tokens = strtok(buffer, ",");
